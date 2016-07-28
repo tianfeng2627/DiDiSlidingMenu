@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\home.png",
+        "source": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\src\\main\\res\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\listview.png",
+        "source": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\src\\main\\res\\drawable-xxxhdpi\\listview.png"
+    },
+    {
+        "merged": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\gridview.png",
+        "source": "C:\\Users\\TIAN\\AndroidStudioProjects\\DidiSlidingMenu\\app\\src\\main\\res\\drawable-xxxhdpi\\gridview.png"
+    }
+]
